@@ -1,0 +1,6 @@
+#editor directories and files
+.think
+.vscode
+*iss
+*.idr*
+*.ulsr?
